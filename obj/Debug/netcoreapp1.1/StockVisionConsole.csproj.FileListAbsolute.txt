@@ -1,0 +1,8 @@
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/bin/Debug/netcoreapp1.1/StockVisionConsole.deps.json
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/bin/Debug/netcoreapp1.1/StockVisionConsole.runtimeconfig.json
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/bin/Debug/netcoreapp1.1/StockVisionConsole.runtimeconfig.dev.json
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/bin/Debug/netcoreapp1.1/StockVisionConsole.dll
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/bin/Debug/netcoreapp1.1/StockVisionConsole.pdb
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/obj/Debug/netcoreapp1.1/StockVisionConsole.AssemblyInfo.cs
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/obj/Debug/netcoreapp1.1/StockVisionConsole.dll
+/home/pawel/RiderProjects/StockVisionConsole/StockVisionConsole/obj/Debug/netcoreapp1.1/StockVisionConsole.pdb
