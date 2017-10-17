@@ -24,10 +24,7 @@ namespace StockVisionConsole
         public string OrgName { get; set; }
 
 
-        public IEnumerable JsonDeserialise(string result)
-        {
-           return  JsonConvert.DeserializeObject<List<FullContact>>(result);
-        }
+
     }
 
     public class Location
