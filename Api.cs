@@ -40,9 +40,7 @@ namespace StockVisionConsole
             {
                 client.BaseAddress = new Uri("https://newsapi.org");
              
-            
                 var response = await client.GetAsync($"/v1/articles?source={source}&apiKey=74d96e5aa0a148fcb67abb16b935e4ff");
-
                 var stringResult = await response.Content.ReadAsStringAsync();
                 var rawdata = new ArticlesObj();
                 if (response.IsSuccessStatusCode)
